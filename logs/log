@@ -1,0 +1,7 @@
+INFO _internal.py:225  * Restarting with stat
+WARNING _internal.py:225  * Debugger is active!
+INFO _internal.py:225  * Debugger PIN: 742-162-804
+INFO _internal.py:225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:225 127.0.0.1 - - [03/Nov/2021 19:46:01] "[33mGET / HTTP/1.1[0m" 404 -
+INFO user.py:8 index page
+INFO _internal.py:225 127.0.0.1 - - [03/Nov/2021 19:46:08] "GET /api/index HTTP/1.1" 200 -
